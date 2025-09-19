@@ -37,7 +37,8 @@ As a data analyst, my goal was to **explore Uber’s ride data** and provide ins
 ---
 
 ## 📈 Dashboard Preview
-_Tableau Dashboard Screenshot_
+![Alt Text]()
+
 
 ![Dashboard](dashboards/tableau_dashboard.png)
 
